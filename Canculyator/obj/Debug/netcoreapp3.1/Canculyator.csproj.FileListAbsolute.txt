@@ -1,0 +1,15 @@
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\bin\Debug\netcoreapp3.1\Canculyator.exe
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\bin\Debug\netcoreapp3.1\Canculyator.deps.json
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\bin\Debug\netcoreapp3.1\Canculyator.runtimeconfig.json
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\bin\Debug\netcoreapp3.1\Canculyator.runtimeconfig.dev.json
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\bin\Debug\netcoreapp3.1\Canculyator.dll
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\bin\Debug\netcoreapp3.1\Canculyator.pdb
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.csprojAssemblyReference.cache
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.AssemblyInfoInputs.cache
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.AssemblyInfo.cs
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.csproj.CoreCompileInputs.cache
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.dll
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.pdb
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.genruntimeconfig.cache
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.Form1.resources
+D:\pragrammalar\dasturlar\c#\formalar\Canculyator\Canculyator\obj\Debug\netcoreapp3.1\Canculyator.csproj.GenerateResource.cache
